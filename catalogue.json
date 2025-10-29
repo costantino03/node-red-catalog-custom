@@ -1,7 +1,7 @@
 {
     "name": "costantino03's self hosted catalogue",
     "description": "A catalogue of self hosted nodes for node-red",
-    "url": "https://github.com/costantino03/node-red-catalog-custom/catalogue.json",
+    "url": "https://github.com/costantino03/node-red-catalog-custom/blob/main/catalogue.json",
     "updated_at": "2025-03-06T16:42:28.959Z",
     "modules": [
     {
