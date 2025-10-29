@@ -1,0 +1,18 @@
+{
+    "name": "costantino03's self hosted catalogue",
+    "description": "A catalogue of self hosted nodes for node-red",
+    "url": "https://github.com/costantino03/node-red-catalog-custom/catalogue.json",
+    "updated_at": "2025-03-06T16:42:28.959Z",
+    "modules": [
+    {
+        "id": "@costantino03/node-red-contrib-notion",
+        "version": "0.1.0",
+        "description": "A node-red node to query Notion API",
+        "updated_at": "2025-03-06T16:42:28.959Z",
+        "keywords": [
+            "node-red"
+        ],
+        "url": "https://flows.nodered.org/node/@costantino03/node-red-contrib-notion/"
+        }
+    ]
+}
