@@ -4,7 +4,7 @@
     "url": "https://github.com/costantino03/node-red-catalog-custom/blob/main/catalog.json",
     "updated_at": "2025-03-06T16:42:28.959Z",
     "modules": [
-    {
+        {
         "id": "@costantino03/node-red-contrib-notion",
         "version": "0.1.0",
         "description": "A node-red node to query Notion API",
@@ -13,6 +13,16 @@
             "node-red"
         ],
         "url": "https://flows.nodered.org/node/@costantino03/node-red-contrib-notion/"
+        },
+        {
+        "id": "@costantino03/node-red-contrib-estrazione-temperatura",
+        "version": "0.1.0",
+        "description": "A node-red node handle homeassistant climate entities",
+        "updated_at": "2025-03-06T16:42:28.959Z",
+        "keywords": [
+            "node-red"
+        ],
+        "url": "https://www.npmjs.com/package/@costantino03/node-red-contrib-estrazione-temperatura"
         }
     ]
 }
