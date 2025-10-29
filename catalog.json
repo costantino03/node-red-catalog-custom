@@ -2,7 +2,7 @@
     "name": "costantino03's self hosted catalog",
     "description": "A catalog of self hosted nodes for node-red",
     "url": "https://raw.githubusercontent.com/costantino03/node-red-catalog-custom/refs/heads/main/catalog.json",
-    "updated_at": "06/03/2025 16:42",
+    "updated_at": "06/03/2025 15:04",
     "modules": [
         {
         "id": "@costantino03/node-red-contrib-notion",
@@ -16,9 +16,9 @@
         },
         {
         "id": "@costantino03/node-red-contrib-estrazione-temperatura",
-        "version": "0.0.3",
+        "version": "0.0.4",
         "description": "A node-red node handle homeassistant climate entities",
-        "updated_at": "29/10/2025 14:48",
+        "updated_at": "29/10/2025 15:04",
         "keywords": [
             "node-red"
         ],
